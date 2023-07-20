@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: rihabbennour/mavenbuild:latest
+        image: shubham9291/mavenbuild:latest
         ports:
         - containerPort: 3000
         
